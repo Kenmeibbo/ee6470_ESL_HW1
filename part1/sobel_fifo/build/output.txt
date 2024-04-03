@@ -1,0 +1,9 @@
+[ 20%] Building CXX object CMakeFiles/sobel.dir/Testbench.cpp.o
+[ 40%] Linking CXX executable sobel
+[ 80%] Built target sobel
+[100%] Generating out.bmp
+Image width=256, height=256
+
+Info: /OSCI/SystemC: Simulation stopped by user.
+Simulated time == 1638400 ns
+[100%] Built target run

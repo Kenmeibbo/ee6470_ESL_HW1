@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.v": "verilog",
+        "*.md": "juliamarkdown",
+        "*.txt": "hlsl",
+        "atomic": "cpp",
+        "memory": "cpp",
+        "mutex": "cpp",
+        "istream": "cpp"
+    }
+}
