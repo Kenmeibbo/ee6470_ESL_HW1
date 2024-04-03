@@ -127,33 +127,33 @@ $ make run
 ### Part 1
 * input image
 
-<img src="part1/sobel_fifo/lena_color_256.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part1/lena_color_256.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * output image
 
-<img src="part1/sobel_fifo/build/out.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part1/lena.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * goden image
 
-<img src="part1/sobel_fifo/build/golden/lena_color_256_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part1/lena_color_256_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * input image
 
-<img src="part1/sobel_fifo/mandril_color.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part1/mandril_color.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * output image
 
-<img src="part1/sobel_fifo/build/mandril.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part1/mandril.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * goden image
 
-<img src="part1/sobel_fifo/build/golden/mandril_color_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part1/mandril_color_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 ### Run time
-<img src="part1/sobel_fifo/build/result.png" alt="Local Image" width="512" height="150" style="display: block; margin: 0 auto;">
+<img src="part1/result.png" alt="Local Image" width="512" height="150" style="display: block; margin: 0 auto;">
 
 ---
-<img src="part1/sobel_fifo/build/mandril.png" alt="Local Image" width="512" height="150" style="display: block; margin: 0 auto;">
+<img src="part1/mandril.png" alt="Local Image" width="512" height="150" style="display: block; margin: 0 auto;">
 ### Part 2
 * input image
 
