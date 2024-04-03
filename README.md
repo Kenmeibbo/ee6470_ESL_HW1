@@ -180,7 +180,7 @@ $ make run
 <img src="part2/mandril_color_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 ### Run time
-<img src="part2/lena.png" alt="Local Image" width="600" height="150" style="display: block; margin: 0 auto;">
+<img src="part2/lena.png" alt="Local Image" width="700" height="150" style="display: block; margin: 0 auto;">
 
 ---
-<img src="part2/mandril.png" alt="Local Image" width="600" height="150" style="display: block; margin: 0 auto;">
+<img src="part2/mandril.png" alt="Local Image" width="700" height="150" style="display: block; margin: 0 auto;">
