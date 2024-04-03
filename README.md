@@ -157,27 +157,27 @@ $ make run
 ### Part 2
 * input image
 
-<img src="part2/lena_color_256.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part2/sobel_fifo/lena_color_256.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * output image
 
-<img src="part2/lena.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part2/sobel_fifo/build/output/lena.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * goden image
 
-<img src="part2/lena_color_256_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part2/sobel_fifo/build/golden/lena_color_256_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * input image
 
-<img src="part2/mandril_color.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part2/sobel_fifo/mandril_color.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * output image
 
-<img src="part2/mandril.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part2/sobel_fifo/build/output/mandril.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 * goden image
 
-<img src="part2/mandril_color_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
+<img src="part2/sobel_fifo/build/golden/mandril_color_gaussian.bmp" alt="Local Image" width="128" height="128" style="display: block; margin: 0 auto;">
 
 ### Run time
 <img src="part2/lena.png" alt="Local Image" width="600" height="150" style="display: block; margin: 0 auto;">
